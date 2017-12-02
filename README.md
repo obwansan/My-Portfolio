@@ -9,6 +9,7 @@ The websites and apps are projects from Udemy and other Web development courses.
 A project I created while working through Shay Howe's Learn to Code HTML & CSS course. I chose to do this because I liked how the course was structured; you learn the theory on a subject, such as positioning, and then apply it to the website you are building. By the end of the course you've learnt the basics of HTML and CSS by building an actual site. I particularly liked his emphasis on using semantic HTMl, which hasn't been discussed on other courses I've done.
 
 [Styles Conference Website](https://obwansan.github.io/styles-conference/)
+
 [Source code](https://github.com/obwansan/styles-conference)
 
 ### Reaction Tester Game
