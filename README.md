@@ -24,4 +24,10 @@ This is a project I did from a course called [watchandcode](http://watchandcode.
 
 [To-do List App](https://obwansan.github.io/practical-javascript/)
 
+### RSVP App
+
+This is a project I did on a TreeHouse DOM course. It's a simple app that allows you to enter invitee names, then edit them and filter by whether they've confirmed. It was very useful for learning about DOM manipulation, especially creating/appending/deleting elements and traversing the DOM. It also useful to practice with ES2016 syntax.
+
+[RSVP App](https://obwansan.github.io/RSVP-App/)
+
 
