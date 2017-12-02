@@ -2,7 +2,7 @@
 
 Listed below are various coding projects I have completed so far. They include some fully functional, but simple, apps and websites, plus links to C code I wrote for CS50x problem sets.
 
-The websites and apps are projects from Udemy and other Web development courses. The courses walk you through them, but I coded each part myself first before checking how the instructor did it.
+The websites and apps are projects from Udemy and other Web development courses. The courses show you how to code the projects, but I coded each part myself first before checking how the instructor did it.
 
 ### 'Styles Conference' Website (static)
 
@@ -18,11 +18,15 @@ A simple project from a Udemy Web development course, using HTML, CSS and JavaSc
 
 [Reaction Tester Game](https://obwansan.github.io/js-reaction-tester-game/)
 
+[Source code](https://github.com/obwansan/js-reaction-tester-game/)
+
 ### RGB Color Game
 
 A project from a Udemy Web development course, using HTML, CSS and JavaScript. The game requires you to work out the correct color from the ratio of red, green and blue in the RGB number. This taught me a lot about event listeners and organizing code in functions (rather than 'spaghetti code').
 
 [RGB Color Game](https://obwansan.github.io/rgb-color-game/)
+
+[Source code](https://github.com/obwansan/rgb-color-game/)
 
 ### To-do List App
 
@@ -32,10 +36,22 @@ A project I did from a course called [watchandcode](http://watchandcode.com). It
 
 [To-do List App](https://obwansan.github.io/practical-javascript/)
 
+[Source code](https://github.com/obwansan/practical-javascript/)
+
 ### RSVP App
 
 A project I did on a TreeHouse DOM course. It's a simple app that allows you to enter invitee names, then edit them and filter by whether they've confirmed. It was very useful for learning about DOM manipulation, especially creating/appending/deleting elements and traversing the DOM. It was also useful to practice using ES2015 syntax.
 
 [RSVP App](https://obwansan.github.io/RSVP-App/)
 
+[Source code](https://github.com/obwansan/RSVP-App/)
 
+### Dice Game
+
+A DOM project I did on a Udemy JavaScript course. The game has 2 players, playing in rounds. Each turn, a player rolls a dice as many times as he wishes. Each result is added to his round score. But, if the player rolls a 1, all his round score gets lost. After that, it's the next player's turn. The player can choose to 'Hold', which means that his round score gets added to his global score. After that, it's the next player's turn. The first player to reach 30 points on global score wins the game. Players can manually enter a final score (at any time!) to override the hard coded score.
+
+The HTML and CSS was already written, but it was a useful learning exercise to create the JS and integrate it with the existing markup.
+
+[Dice Game](https://obwansan.github.io/dice-game/)
+
+[Source code](https://github.com/obwansan/dice-game/)
