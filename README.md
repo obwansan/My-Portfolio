@@ -46,10 +46,25 @@ A project I did on a TreeHouse DOM course. It's a simple app that allows you to 
 
 ### Dice Game
 
-A DOM project I did on a Udemy JavaScript course. The game has 2 players, playing in rounds. Each turn, a player rolls a dice as many times as he wishes. Each result is added to his round score. But, if the player rolls a 1, all his round score gets lost. After that, it's the next player's turn. The player can choose to 'Hold', which means that his round score gets added to his global score. After that, it's the next player's turn. The first player to reach 30 points on global score wins the game. Players can manually enter a final score (at any time!) to override the hard coded score.
+A project I did on a Udemy JavaScript course. The game has 2 players, playing in rounds. Each turn, a player rolls a dice as many times as he wishes. Each result is added to his round score. But, if the player rolls a 1, all his round score gets lost. After that, it's the next player's turn. The player can choose to 'Hold', which means that his round score gets added to his global score. After that, it's the next player's turn. The first player to reach 30 points on global score wins the game. Players can manually enter a final score (at any time!) to override the hard coded score.
 
 The HTML and CSS was already written, but it was a useful learning exercise to create the JS and integrate it with the existing markup.
 
 [Dice Game](https://obwansan.github.io/dice-game/)
 
 [Source code](https://github.com/obwansan/dice-game/)
+
+### JS Basic Algorithm Challenges (Free Code Camp)
+
+A range of basic JavaScript coding challenges involving manipulation of numbers, strings and arrays. I tried to solve the challenges in two or three different ways, which involved researching different methods on w3schools and MDN.
+
+[Code](https://obwansan.github.io/FCC-Basic-Algorithm-Challenges/)
+
+### CS50x Problem Sets
+
+Coding challenges from the first four problem sets of the Harvard Computer Science 50x MOOC. The course requires you to learn basic syntax and grammar of C in order to attempt the problems. I worked through these to try and get a better grasp of fundamental programming principles.
+
+[Pset1](https://obwansan.github.io/CS50x-Pset-1)
+[Pset2](https://obwansan.github.io/CS50x-Pset-2)
+[Pset3](https://obwansan.github.io/CS50x-Pset-3)
+[Pset4](https://obwansan.github.io/CS50x-Pset-4)
