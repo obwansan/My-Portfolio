@@ -1,5 +1,3 @@
-## Welcome to my current portfolio hosted on GitHub Pages
-
 Listed below are various coding projects I have completed so far. They include some simple, but functional, apps and websites, plus links to C code I wrote for CS50x problem sets.
 
 The websites and apps are projects from Udemy and other online Web development courses. I learnt the required HTML, CSS and JavaScript using various resources including TreeHouse, Udemy, W3Schools and MDN. The courses show you how to code the projects, but I coded each part myself first before watching how the instructor did it.
