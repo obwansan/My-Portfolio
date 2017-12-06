@@ -65,6 +65,9 @@ A range of basic JavaScript coding challenges involving manipulation of numbers,
 Coding challenges from the first four problem sets of the Harvard Computer Science 50x MOOC. The course requires you to learn basic syntax and grammar of C in order to attempt the problems. I worked through these to try and get a better grasp of fundamental programming principles.
 
 [Pset1](https://obwansan.github.io/CS50x-Pset-1)
+
 [Pset2](https://obwansan.github.io/CS50x-Pset-2)
+
 [Pset3](https://obwansan.github.io/CS50x-Pset-3)
+
 [Pset4](https://obwansan.github.io/CS50x-Pset-4)
