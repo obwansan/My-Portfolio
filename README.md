@@ -58,16 +58,16 @@ The HTML and CSS was already written, but it was a useful learning exercise to c
 
 A range of basic JavaScript coding challenges involving manipulation of numbers, strings and arrays. I tried to solve the challenges in two or three different ways, which involved researching different methods on w3schools and MDN.
 
-[Code](https://obwansan.github.io/FCC-Basic-Algorithm-Challenges/)
+[Code](https://github.com/obwansan/FCC-Basic-Algorithm-Challenges)
 
 ### CS50x Problem Sets
 
 Coding challenges from the first four problem sets of the Harvard Computer Science 50x MOOC. The course requires you to learn basic C syntax and grammar in order to attempt the problems. I worked through the problem sets to try and get a better grasp of fundamental programming principles.
 
-[Pset1](https://obwansan.github.io/CS50x-Pset-1)
+[Pset1](https://github.com/obwansan/CS50x-Pset-1)
 
-[Pset2](https://obwansan.github.io/CS50x-Pset-2)
+[Pset2](https://github.com/obwansan/CS50x-Pset-2)
 
-[Pset3](https://obwansan.github.io/CS50x-Pset-3)
+[Pset3](https://github.com/obwansan/CS50x-Pset-4)
 
-[Pset4](https://obwansan.github.io/CS50x-Pset-4)
+[Pset4](https://github.com/obwansan/CS50x-Pset-5)
