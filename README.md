@@ -68,6 +68,6 @@ Coding challenges from the first four problem sets of the Harvard Computer Scien
 
 [Pset2](https://github.com/obwansan/CS50x-Pset-2)
 
-[Pset3](https://github.com/obwansan/CS50x-Pset-4)
+[Pset3](https://github.com/obwansan/CS50x-Pset-3)
 
-[Pset4](https://github.com/obwansan/CS50x-Pset-5)
+[Pset4](https://github.com/obwansan/CS50x-Pset-4)
