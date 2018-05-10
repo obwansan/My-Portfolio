@@ -1,4 +1,4 @@
-Listed below are various coding projects I have completed so far. They include some simple, but functional, apps and websites, plus links to Free Code Camp JavaScript coding challenges and C code I wrote for CS50x problem sets.
+Listed below are various coding projects I completed on my own before doing the full-stack track at Mayden Academy. They include some simple, but functional, apps and websites, plus links to Free Code Camp JavaScript coding challenges and C code I wrote for CS50x problem sets.
 
 The websites and apps are projects from Udemy and other online Web development courses. I learnt the required HTML, CSS and JavaScript using various resources, including TreeHouse, Udemy, w3Schools and MDN. The courses show you how to code the projects, but I coded each part myself first before watching how the instructor did it.
 
